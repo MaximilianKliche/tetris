@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:neon_tetris/src/neon_tetris.dart';
-import 'package:neon_tetris/src/panel/panel.dart';
+import 'package:tetris/src/neon_tetris.dart';
+import 'package:tetris/src/panel/panel.dart';
 import 'package:provider/provider.dart';
 
 part 'page_land.dart';

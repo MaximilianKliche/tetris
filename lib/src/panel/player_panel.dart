@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:neon_tetris/src/game/game.dart';
-import 'package:neon_tetris/src/material/material.dart';
-import 'package:neon_tetris/src/neon_tetris.dart';
+import 'package:tetris/src/game/game.dart';
+import 'package:tetris/src/material/material.dart';
+import 'package:tetris/src/neon_tetris.dart';
 import 'package:provider/provider.dart';
 
 const _PLAYER_PANEL_PADDING = 6;

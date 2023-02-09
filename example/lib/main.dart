@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:neon_tetris/neon_tetris.dart';
+import 'package:tetris/neon_tetris.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:neon_tetris/src/game/game.dart';
-import 'package:neon_tetris/src/neon_tetris.dart';
+import 'package:tetris/src/game/game.dart';
+import 'package:tetris/src/neon_tetris.dart';
 
 import '../material/material.dart';
 
